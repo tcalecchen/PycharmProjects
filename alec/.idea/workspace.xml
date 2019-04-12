@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1a2c364-6062-4a0c-b2ee-91e9661ae1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypython/another_file_to_read.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypython/file_to_read.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypython/first_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypython/my_first_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypython/my_test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mypython/first_script.py">
+        <entry file="file://$PROJECT_DIR$/mypython/Ch02/1csv_simple_parsing_and_write.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1047">
-              <caret line="497" selection-start-line="497" selection-end-line="497" />
+            <state relative-caret-position="391">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -31,6 +36,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/mypython/first_script.py" />
+        <option value="$PROJECT_DIR$/mypython/my_test.py" />
       </list>
     </option>
   </component>
@@ -38,7 +44,7 @@
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1260" />
-    <option name="height" value="984" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -54,6 +60,17 @@
               <item name="alec" type="b2602c69:ProjectViewProjectNode" />
               <item name="alec" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="alec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alec" type="462c0819:PsiDirectoryNode" />
+              <item name="mypython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alec" type="462c0819:PsiDirectoryNode" />
+              <item name="mypython" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -62,7 +79,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -91,9 +108,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1040" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18759936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18745874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -115,8 +132,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mypython/first_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1047">
+        <state relative-caret-position="657">
           <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypython/my_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#23#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypython/Ch02/1csv_simple_parsing_and_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
