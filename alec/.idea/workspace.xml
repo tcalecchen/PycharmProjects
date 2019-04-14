@@ -4,11 +4,7 @@
     <list default="true" id="c1a2c364-6062-4a0c-b2ee-91e9661ae1ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypython/another_file_to_read.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypython/file_to_read.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypython/first_script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypython/my_first_python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypython/my_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypython/Ch02/1csv_simple_parsing_and_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/mypython/Ch02/1csv_simple_parsing_and_write.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +14,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mypython/Ch02/1csv_simple_parsing_and_write.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            <state relative-caret-position="598">
+              <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mypython/Ch02/pandas_parsing_and_write.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#23#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,6 +44,7 @@
       <list>
         <option value="$PROJECT_DIR$/mypython/first_script.py" />
         <option value="$PROJECT_DIR$/mypython/my_test.py" />
+        <option value="$PROJECT_DIR$/mypython/Ch02/1csv_simple_parsing_and_write.py" />
       </list>
     </option>
   </component>
@@ -130,27 +138,30 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mypython/first_script.py">
+    <entry file="file://$PROJECT_DIR$/mypython/first_script.py" />
+    <entry file="file://$PROJECT_DIR$/mypython/my_test.py" />
+    <entry file="file://$PROJECT_DIR$/mypython/Ch02/2csv_reader_parsing_and_write.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="497" selection-start-line="497" selection-end-line="497" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypython/my_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state>
           <folding>
-            <element signature="e#23#54#0" expanded="true" />
+            <element signature="e#23#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mypython/Ch02/1csv_simple_parsing_and_write.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="598">
+          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypython/Ch02/pandas_parsing_and_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
