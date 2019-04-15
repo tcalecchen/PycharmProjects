@@ -1,8 +1,0 @@
-This
-text
-comes
-form
-a
-different
-text
-file.
