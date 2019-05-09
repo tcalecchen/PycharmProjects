@@ -1,21 +1,21 @@
 """
-绘制小猪佩奇
+繪製小猪佩奇
 """
 from turtle import *
 
 
-def nose(x,y):
-    """画鼻子"""
+def nose(x, y):
+    """畫鼻子"""
     penup()
     # 将海龟移动到指定的坐标
-    goto(x,y)
+    goto(x, y)
     pendown()
     # 设置海龟的方向（0-东、90-北、180-西、270-南）
     setheading(-30)
     begin_fill()
     a = 0.4
     for i in range(120):
-        if 0 <= i < 30 or 60 <= i <90:
+        if 0 <= i < 30 or 60 <= i < 90:
             a = a + 0.08
             # 向左转3度
             left(3)
