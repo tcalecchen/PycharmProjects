@@ -3,3 +3,5 @@
 venv/
 *.iml
 *.xml
+*.iml
+*.xml
