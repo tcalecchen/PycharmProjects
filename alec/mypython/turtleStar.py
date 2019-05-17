@@ -6,6 +6,7 @@ star = turtle.Turtle()
 
 star.color('red', 'yellow')
 star.begin_fill()
+
 while True:
  star.forward(200)
  star.left(170)
